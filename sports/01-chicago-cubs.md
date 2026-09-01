@@ -17,4 +17,4 @@ They have been known as the Chicago Cubs since 1903.
 
 # Citation
 
-Chicago Cubs, Wikipedia, https://en.wikipedia.org/wiki/Chicago\_Cubs, Retrieved on September 1, 2026.
+Chicago Cubs, Wikipedia, https://en.wikipedia.org/wiki/Chicago_Cubs, Retrieved on September 1, 2026.
