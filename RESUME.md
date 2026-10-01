@@ -1,6 +1,6 @@
 # Download in other formats
 
-You can download my resume in [Word](/resume.docx) or [PDF](/resume.pdf)
+You can download my resume in [Word](/comp250-notes/resume.docx) or [PDF](/comp250-notes/resume.pdf)
 
 # Contact
 
