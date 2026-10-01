@@ -1,3 +1,7 @@
+# Download in other formats
+
+You can download my resume in [Word](/resume.docx) or [PDF](/resume.pdf)
+
 # Contact
 
 George K. Thiruvathukal
